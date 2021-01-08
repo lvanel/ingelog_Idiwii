@@ -1,0 +1,10 @@
+#requirements
+urllib3==1.24.3
+seaborn==0.11.0
+numpy==1.19.4
+matplotlib==3.2.2
+scikit-plot==0.3.7
+scikit-learn==0.22.2.post1
+pandas==1.1.5
+spacy==2.2.4
+
